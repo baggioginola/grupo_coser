@@ -8,13 +8,13 @@
 define('ENVIRONMENT', 'test'); # must be production or test.
 define('__ROOT__', dirname(__FILE__));
 //define('PROJECT', 'system/');
-define('PROJECT', 'Github/grupo_coser/');
+define('PROJECT', 'grupo_coser/');
 define('DOMAIN', 'http://' . $_SERVER['HTTP_HOST'] . '/' . PROJECT);
 
 define('CSS', DOMAIN . 'includes/public/css/');
 define('JS', DOMAIN . 'includes/public/js/');
 define('IMAGES', DOMAIN . 'includes/public/img/');
-define('FONTS', DOMAIN . 'includes/public/fonts/css/');
+define('FONTS', DOMAIN . 'includes/public/fonts/');
 define('CLASSES', __ROOT__ . '/core/classes/');
 define('__CONTROLLER__', __ROOT__ . '/app/controller/');
 define('__MODEL__', __ROOT__ . '/app/model/');
