@@ -1400,11 +1400,12 @@ $document.ready(function () {
         Socialite.load();
     }
 
+    /*
     $('.rd-navbar-nav').click(function(){
         $(this).parent().removeClass('active');
         $(".rd-navbar-panel").children().removeClass('active');
     });
-
+    */
     $("#search_form").submit(function(){
        return false;
     });

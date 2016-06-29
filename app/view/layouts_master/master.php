@@ -2,13 +2,13 @@
 <html lang="en" class="wide wow-animation">
 <head>
     <!-- Site Title-->
-    <title>480ibg</title>
+    <title>Grupo Coser</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport"
           content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta charset="utf-8">
-    <link rel="icon" href="<?php echo IMAGES; ?>favicon.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo IMAGES; ?>logos/grupo_coser.png" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css"
           href="<?php echo FONTS; ?>font.css">

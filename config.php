@@ -8,7 +8,7 @@
 define('ENVIRONMENT', 'test'); # must be production or test.
 define('__ROOT__', dirname(__FILE__));
 //define('PROJECT', 'system/');
-define('PROJECT', 'Github/grupo_coser/');
+define('PROJECT', 'github/grupo_coser/');
 define('DOMAIN', 'http://' . $_SERVER['HTTP_HOST'] . '/' . PROJECT);
 
 define('CSS', DOMAIN . 'includes/public/css/');

@@ -4,14 +4,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-md-4">
-                    <h6>Sign up for updates</h6>
+                    <h6>Contacto</h6>
                     <!-- Rd Mailform result field-->
                     <div class="rd-mailform-validate"></div>
                     <!-- RD Mailform-->
                     <form data-result-class="rd-mailform-validate" data-form-type="subscribe" method="post"
                           action="bat/rd-mailform.php" class="rd-mailform subscribe">
-                        <input type="text" name="email" data-constraints="@NotEmpty @Email" placeholder="Email">
-                        <button class="btn btn-md btn-pomegranate">Sign up</button>
+                        <input type="text" name="email" data-constraints="@NotEmpty @Email" placeholder="Correo electr&oacute;nico">
+                        <button class="btn btn-md btn-pomegranate">Enviar</button>
                     </form>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-offset-1 offset-top-60 offset-sm-top-0">
@@ -30,12 +30,12 @@
                         </dl>
                         <dl class="dl-horizontal-variant-2">
                             <dt>E-mail:</dt>
-                            <dd><a href="mailto:#">contacto@480ibg.com</a></dd>
+                            <dd><a href="mailto:#">contacto@grupocoser.com</a></dd>
                         </dl>
                     </address>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 offset-top-60 offset-md-top-0">
-                    <h6>Keep in touch</h6>
+                    <h6>Mantente en contacto</h6>
                     <ul class="list-inline list-share">
                         <li><a href="#" class="icon icon-md fa-google-plus"></a></li>
                         <li><a href="#" class="icon icon-md fa-twitter"></a></li>
@@ -50,22 +50,26 @@
     <section class="bg-darkener section-55 section-lg-75 copyright">
         <div class="container">
             <div class="row">
-                <p>&#169;<span id="copyright-year"></span> 480ibg <a href="#">Política de Privacidad</a>
+                <p>&#169;<span id="copyright-year"></span> Grupo Coser <a href="#">Política de Privacidad</a>
                 </p>
             </div>
         </div>
     </section>
+
+
     <section>
-        <!-- RD Google Map-->
+
         <div class="rd-google-map">
             <div id="google-map" data-zoom="14" data-x="-98.2308423" data-y="19.0524229"
                  class="rd-google-map__model"></div>
             <ul class="rd-google-map__locations">
                 <li data-x="-98.2308423" data-y="19.0524229">
                     <p>Tehuacán Sur #120. Col. La Paz <span> 222 230 4785
-                            <!-- {%FOOTER_LINK}--></span></p>
+
+                </span></p>
                 </li>
             </ul>
         </div>
     </section>
+    
 </footer>

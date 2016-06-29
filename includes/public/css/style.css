@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6,
     font-family: inherit;
     font-weight: 700;
     line-height: 1.1;
-    color: #333333;
+    color: #00548f;
 }
 
 h1 small,
@@ -10447,7 +10447,7 @@ ol {
 }
 
 .page .text-pomegranate {
-    color: #F34235;
+    color: #00BBD3;;
 }
 
 .page a.text-pomegranate:hover,
@@ -10605,8 +10605,8 @@ fieldset[disabled] .btn-default {
 .btn-primary:focus, .btn-primary.focus, .btn-primary:hover, .btn-primary:active, .btn-primary.active,
 .open > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #F34235;
-    border-color: #F34235;
+    background-color: #00548f;
+    border-color: #00548f;
 }
 
 .btn-primary:active, .btn-primary.active,
@@ -10637,8 +10637,8 @@ fieldset[disabled] .btn-primary {
 
 .btn-pomegranate {
     color: #fff;
-    background-color: #F34235;
-    border-color: #F34235;
+    background-color: #00548f;
+    border-color: #00548f;
 }
 
 .btn-pomegranate:focus, .btn-pomegranate.focus, .btn-pomegranate:hover, .btn-pomegranate:active, .btn-pomegranate.active,
@@ -10848,7 +10848,7 @@ fieldset[disabled] .btn-green {
 }
 
 .icon-green {
-    color: #4baf4f;
+    color: #00bbd3;
 }
 
 .icon-circle {
@@ -31509,7 +31509,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 
 .ui-to-top:before {
-    color: #F34235;
+    color: #00bbd3;
 }
 
 .ui-to-top:hover, .ui-to-top:focus {

@@ -16,9 +16,9 @@
                     <!-- RD Navbar Brand-->
                     <div class="rd-navbar-brand">
                         <a href="#inicio" class="brand-name">
-                            <img src="<?php echo IMAGES; ?>/migration/480ibg.png" alt="" width="238" height="96">
+                            <img src="<?php echo IMAGES; ?>/logos/grupo_coser.png" alt="" width="201" height="148">
                             <p class="text-pomegranate text-uppercase">
-                                <span class="text-ubold">480ibg</span>
+                                <span class="text-ubold">Grupo Coser</span>
                             </p>
                         </a>
                     </div>
@@ -27,12 +27,28 @@
                     <div class="rd-navbar-nav-wrap">
                         <!-- RD Navbar Nav-->
                         <ul class="rd-navbar-nav">
-                            <li class="active"><a href="#inicio">Inicio</a>
-
-                            </li>
-                            <li><a href="#grupo480">Grupo 480</a></li>
+                            <li class="active"><a href="#inicio">Inicio</a></li>
+                            <li><a href="#grupo-coser">Grupo Coser</a></li>
                             <li><a href="#nosotros">Nosotros</a></li>
-                            <li><a href="#servicios">Servicios</a></li>
+                            
+                            <li class="rd-navbar--has-dropdown rd-navbar-submenu">
+                                <a href="#dos">DOS</a>
+                                <ul class="rd-navbar-dropdown">
+                                    <li>
+                                        <a href="#cobertura">Cobertura</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tecnologia">Tecnología</a>
+                                    </li>
+                                    <li>
+                                        <a href="#servicios">Servicios</a>
+                                    </li>
+                                    <li>
+                                        <a href="#proceso">Proceso</a>
+                                    </li>
+                                </ul>
+                                <span class="rd-navbar-submenu-toggle"></span>
+                            </li>
                             <li><a href="#contacto">Contacto</a></li>
                         </ul>
                     </div>
