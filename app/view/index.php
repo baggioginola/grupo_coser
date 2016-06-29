@@ -3,14 +3,10 @@
     <!--Section swiper-->
     <?php require_once 'inicio.php'; ?>
 
-    <!--Section Grupo Coser-->
-    <?php require_once 'grupo_coser.php'; ?>
-
-    <!--Section Nosotros-->
-    <?php require_once 'nosotros.php'; ?>
-
     <!--Section Filosofia-->
     <?php require_once 'filosofia.php'; ?>
+    <!--Section Nosotros-->
+    <?php require_once 'nosotros.php'; ?>
 
     <!--Servicios-->
     <?php // require_once 'servicios.php'; ?>

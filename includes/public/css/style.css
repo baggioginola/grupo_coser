@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6,
     font-family: inherit;
     font-weight: 700;
     line-height: 1.1;
-    color: #00548f;
+    color: #8DBC4C;
 }
 
 h1 small,
@@ -10145,7 +10145,7 @@ ol {
     font-family: "FontAwesome";
     font-size: 12px;
     vertical-align: middle;
-    color: #00BBD3;
+    color: #8dbc4c;
     transition: .4s;
 }
 
@@ -10447,7 +10447,7 @@ ol {
 }
 
 .page .text-pomegranate {
-    color: #00BBD3;;
+    color: #8dbc4c;;
 }
 
 .page a.text-pomegranate:hover,
@@ -10637,15 +10637,15 @@ fieldset[disabled] .btn-primary {
 
 .btn-pomegranate {
     color: #fff;
-    background-color: #00548f;
-    border-color: #00548f;
+    background-color: #8dbc4c;
+    border-color: #8dbc4c;
 }
 
 .btn-pomegranate:focus, .btn-pomegranate.focus, .btn-pomegranate:hover, .btn-pomegranate:active, .btn-pomegranate.active,
 .open > .btn-pomegranate.dropdown-toggle {
     color: #fff;
-    background-color: #00BBD3;
-    border-color: #00BBD3;
+    background-color: #56743B;
+    border-color: #56743B;
 }
 
 .btn-pomegranate:active, .btn-pomegranate.active,
@@ -10848,7 +10848,7 @@ fieldset[disabled] .btn-green {
 }
 
 .icon-green {
-    color: #00bbd3;
+    color: #505155;
 }
 
 .icon-circle {
@@ -23283,8 +23283,8 @@ a:focus {
 }
 
 .page-foot a:hover {
-    color: #00BBD3;
-    border-color: #00BBD3;
+    color: #8dbc4c;
+    border-color: #8dbc4c;
 }
 
 /* Breadcrumb*/
@@ -28381,7 +28381,7 @@ img.mfp-img {
 }
 
 .desktop .rd-navbar-search .rd-navbar-search-toggle:hover:before {
-    color: #00BBD3;
+    color: #8dbc4c;
 }
 
 .rd-navbar-search-toggle {
@@ -29627,7 +29627,7 @@ img.mfp-img {
 
 .rd-navbar-fixed .rd-navbar-nav li.active > a {
     color: #fff;
-    background: #00BBD3;
+    background: #8dbc4c;
 }
 
 .rd-navbar-fixed .rd-navbar-dropdown,
@@ -29804,7 +29804,7 @@ img.mfp-img {
 
 .rd-navbar-fixed .rd-navbar-nav li:hover > a, .rd-navbar-fixed .rd-navbar-nav li:hover > a:hover, .rd-navbar-fixed .rd-navbar-nav li.focus > a, .rd-navbar-fixed .rd-navbar-nav li.focus > a:hover {
     color: #FFF;
-    background: #00BBD3;
+    background: #8dbc4c;
 }
 
 .rd-navbar-fixed .rd-navbar-nav li:hover > .rd-navbar-submenu-toggle, .rd-navbar-fixed .rd-navbar-nav li.focus > .rd-navbar-submenu-toggle {
@@ -29831,7 +29831,7 @@ img.mfp-img {
 }
 
 .rd-navbar-fixed .rd-navbar-nav li.opened > a {
-    background: #00BBD3;
+    background: #8dbc4c;
     color: #FFF;
 }
 
@@ -31509,7 +31509,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 
 .ui-to-top:before {
-    color: #00bbd3;
+    color: #8dbc4c;
 }
 
 .ui-to-top:hover, .ui-to-top:focus {

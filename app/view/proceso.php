@@ -40,7 +40,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-sm-top-0">
+            <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30">
                 <div class="media-variant-2">
                     <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
                     </div>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-sm-top-0">
+            <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30">
                 <div class="media-variant-2">
                     <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
                     </div>

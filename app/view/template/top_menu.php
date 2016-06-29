@@ -16,7 +16,7 @@
                     <!-- RD Navbar Brand-->
                     <div class="rd-navbar-brand">
                         <a href="#inicio" class="brand-name">
-                            <img src="<?php echo IMAGES; ?>/logos/grupo_coser.png" alt="" width="201" height="148">
+                            <img src="<?php echo IMAGES; ?>/logos/dos.jpg" alt="" width="201" height="148" >
                             <p class="text-pomegranate text-uppercase">
                                 <span class="text-ubold">Grupo Coser</span>
                             </p>
@@ -28,7 +28,7 @@
                         <!-- RD Navbar Nav-->
                         <ul class="rd-navbar-nav">
                             <li class="active"><a href="#inicio">Inicio</a></li>
-                            <li><a href="#grupo-coser">Grupo Coser</a></li>
+                            <li><a href="#filosofia">Grupo Coser</a></li>
                             <li><a href="#nosotros">Nosotros</a></li>
                             
                             <li class="rd-navbar--has-dropdown rd-navbar-submenu">

@@ -8,7 +8,7 @@
           content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta charset="utf-8">
-    <link rel="icon" href="<?php echo IMAGES; ?>logos/grupo_coser.png" type="image/x-icon">
+    <link rel="icon" href="<?php echo IMAGES; ?>logos/dos.jpg" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css"
           href="<?php echo FONTS; ?>font.css">
