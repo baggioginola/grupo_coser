@@ -5,7 +5,7 @@
             <div data-slide-bg="<?php echo IMAGES; ?>slide-1.jpg" class="swiper-slide">
                 <div class="swiper-slide-caption">
                     <div class="text-left">
-                        <p data-caption-animate="fadeInUp" class="big">Tecnologia</p>
+                        <p data-caption-animate="fadeInUp" class="big">Tecnología</p>
                         <a href="#tecnologia" data-caption-animate="fadeInUp" data-caption-delay="1000"
                            class="btn btn-lg btn-transparent">Ver más>></a>
                     </div>
