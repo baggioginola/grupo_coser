@@ -7,7 +7,7 @@
             <div class="col-xs-12 col-sm-6 col-lg-4">
                 <div class="media-variant-2">
                     <div class="media-left"><span
-                            class="icon icon-circle icon-green icon-lg fa-group"></span></div>
+                            class="icon icon-circle icon-green icon-lg fa-certificate"></span></div>
                     <div class="media-body">
 
                         <p style="margin-top: 15px;">Nuestra Tecnología permite el poder automatizar los procesos en los cuales el Capital Humano puede ser desaprovechado
@@ -18,7 +18,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-sm-top-0">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-space-shuttle"></span>
                     </div>
                     <div class="media-body">
 

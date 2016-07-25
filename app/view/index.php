@@ -8,8 +8,7 @@
     <!--Section Nosotros-->
     <?php require_once 'nosotros.php'; ?>
 
-    <!--Servicios-->
-    <?php // require_once 'servicios.php'; ?>
+    <?php require_once 'genco_consulting.php' ?>
 
     <!--Outsourcing-->
     <?php require_once 'outsourcing.php'; ?>

@@ -7,7 +7,7 @@
             <div class="col-xs-12 col-sm-6 col-lg-4">
                 <div class="media-variant-2">
                     <div class="media-left"><span
-                            class="icon icon-circle icon-green icon-lg fa-group"></span></div>
+                            class="icon icon-circle icon-green icon-lg fa-cogs"></span></div>
                     <div class="media-body">
                         <h6>Diagnóstico</h6>
                         <p>
@@ -18,7 +18,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-sm-top-0">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-rss"></span>
                     </div>
                     <div class="media-body">
                         <h6>Proyecto DOS</h6>
@@ -42,7 +42,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-industry"></span>
                     </div>
                     <div class="media-body">
                         <h6>Herramientas Utilizadas</h6>
@@ -57,7 +57,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-level-up"></span>
                     </div>
                     <div class="media-body">
                         <h6>Principales Pasos</h6>

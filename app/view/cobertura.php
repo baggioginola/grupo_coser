@@ -7,7 +7,7 @@
             <div class="col-xs-12 col-sm-6 col-lg-4">
                 <div class="media-variant-2">
                     <div class="media-left"><span
-                            class="icon icon-circle icon-green icon-lg fa-group"></span></div>
+                            class="icon icon-circle icon-green icon-lg fa-building"></span></div>
                     <div class="media-body">
 
                         <p style="margin-top: 15px;">DOS cuenta con la Infraestructura para poder mostrar beneficios inmediatos</p>
@@ -16,7 +16,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-sm-top-0">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-group"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-balance-scale"></span>
                     </div>
                     <div class="media-body">
 
@@ -30,7 +30,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30 offset-lg-top-0">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-coffee"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-building-o"></span>
                     </div>
                     <div class="media-body">
                         <p>
@@ -42,7 +42,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 offset-top-30">
                 <div class="media-variant-2">
-                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-cogs"></span>
+                    <div class="media-left"><span class="icon icon-circle icon-green icon-lg fa-graduation-cap"></span>
                     </div>
                     <div class="media-body">
                         <p style="margin-top: 10px;">
