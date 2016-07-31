@@ -1415,6 +1415,7 @@ $document.ready(function () {
 
 
     $('#contact_form').submit(function(){
+        $('#mensaje_servidor').slideUp();
         $.ajax({
             url: "contacto/sendMessage",
             type: "POST",
@@ -1426,7 +1427,10 @@ $document.ready(function () {
             dataType: 'json',
             async: false,
             success: function (data) {
-                console.log(data);
+                $('#mensaje_servidor').html('El mensaje fue enviado correctamente');
+                $('#mensaje_servidor').slideDown();
+                $('#mensaje').val('');
+                $('#email').val('');
             }
         });
         return false;

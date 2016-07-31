@@ -14,6 +14,7 @@
                         <input type="email" name="email" id="email" placeholder="Correo electr&oacute;nico" required="required" autocomplete="off">
                         <textarea style="resize: none; color: #fff;" required="required" placeholder="Ingrese Mensaje" autocomplete="off" id="mensaje"></textarea>
                         <button class="btn btn-md btn-pomegranate" type="submit">Enviar</button>
+                        <h6 style="color: #8dbc4c; display: none;" id="mensaje_servidor">El mensaje fue enviado correctamente</h6>
                     </form>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-offset-1 offset-top-60 offset-sm-top-0">
