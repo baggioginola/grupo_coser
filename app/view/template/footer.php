@@ -1,3 +1,4 @@
+
 <!-- Page Footer-->
 <footer class="page-foot text-left" id="contacto">
     <section class="bg-darker section-55 section-lg-top-95 section-lg-bottom-115">
@@ -9,28 +10,30 @@
                     <div class="rd-mailform-validate"></div>
                     <!-- RD Mailform-->
                     <form data-result-class="rd-mailform-validate" data-form-type="subscribe" method="post"
-                          action="bat/rd-mailform.php" class="rd-mailform subscribe">
-                        <input type="text" name="email" data-constraints="@NotEmpty @Email" placeholder="Correo electr&oacute;nico">
-                        <button class="btn btn-md btn-pomegranate">Enviar</button>
+                          class="rd-mailform subscribe" id="contact_form">
+                        <input type="email" name="email" id="email" placeholder="Correo electr&oacute;nico" required="required" autocomplete="off">
+                        <textarea style="resize: none; color: #fff;" required="required" placeholder="Ingrese Mensaje" autocomplete="off" id="mensaje"></textarea>
+                        <button class="btn btn-md btn-pomegranate" type="submit">Enviar</button>
                     </form>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-offset-1 offset-top-60 offset-sm-top-0">
                     <h6>Contáctanos</h6>
                     <address>
                         <p>
-                            Tehuacán Sur No. 120, <br>Col. La Paz Puebla, México. <br>C.P. 72160
+                            Conjunto ejecutivo Torres JV, <br>Boulevard Atlixcáyotl 5208 <br>Torre JV 3 Despacho 22 C
                         </p>
+                        <br>
                         <dl class="dl-horizontal-variant-1">
                             <dt>Teléfono 1:</dt>
-                            <dd><a href="callto:#"> (222) 230 47 85</a></dd>
+                            <dd><a href="callto:#"> (222) 169 78 20</a></dd>
                         </dl>
                         <dl class="dl-horizontal-variant-1">
                             <dt>Teléfono 2:</dt>
-                            <dd><a href="callto:#">(222) 249 68 68</a></dd>
+                            <dd><a href="callto:#">(222) 605 91 27</a></dd>
                         </dl>
                         <dl class="dl-horizontal-variant-2">
                             <dt>E-mail:</dt>
-                            <dd><a href="mailto:#">contacto@grupocoser.com</a></dd>
+                            <dd><a href="mailto:contacto@grupocoser.com.mx">contacto@grupocoser.com.mx</a></dd>
                         </dl>
                     </address>
                 </div>
@@ -60,11 +63,11 @@
     <section>
 
         <div class="rd-google-map">
-            <div id="google-map" data-zoom="14" data-x="-98.2308423" data-y="19.0524229"
+            <div id="google-map" data-zoom="15" data-x="-98.2676997357247" data-y="19.009727558993646"
                  class="rd-google-map__model"></div>
             <ul class="rd-google-map__locations">
-                <li data-x="-98.2308423" data-y="19.0524229">
-                    <p>Tehuacán Sur #120. Col. La Paz <span> 222 230 4785
+                <li data-x="-98.2676997357247" data-y="19.009727558993646">
+                    <p>Boulevard Atlixcáyotl 5208 Torre JV 3<span> 222 169 7820
 
                 </span></p>
                 </li>

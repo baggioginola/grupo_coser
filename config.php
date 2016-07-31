@@ -37,3 +37,8 @@ define('MAIL_FROM', 'From: Debugger-Core <debug@grupocoser.com>');
 define('STATUS_SUCCESS', 200);
 define('STATUS_FAILURE_CLIENT', 404);
 define('STATUS_FAILURE_INTERNAL', 500);
+
+define('MESSAGE_SUCCESS', 'La transaccion fue exitosa');
+define('MESSAGE_ERROR', 'La transaccion fue fallida, intente mas tarde');
+define('MESSAGE_EMPTY', 'El registro no existe');
+define('MESSAGE_EXISTS', 'El nombre ya existe, intente otro diferente');

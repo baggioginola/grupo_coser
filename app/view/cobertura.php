@@ -1,4 +1,9 @@
-<section class="section-55 section-lg-top-75 section-lg-bottom-110 bg-lighter" id="cobertura" style="padding-top: 15px;">
+<div style="clear: both;" id="cobertura">
+    <br>
+    <br>
+    <br>
+</div>
+<section class="section-55 section-lg-top-75 section-lg-bottom-110 bg-lighter"  style="padding-top: 15px;">
     <div class="container text-left">
         <h2 class="text-center text-sm-left">Cobertura</h2>
 

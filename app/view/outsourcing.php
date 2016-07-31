@@ -1,3 +1,8 @@
+<div style="clear: both; background: #efefef none repeat scroll 0 0;" id="dos">
+    <br>
+    <br>
+    <br>
+</div>
 <section class="section-55 section-lg-top-75 section-lg-bottom-110" id="dos" style="padding-top: 15px;">
     <div class="container text-left">
         <h2 class="text-center text-sm-left">Diversified Outsourcing Services</h2>

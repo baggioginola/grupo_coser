@@ -10683,8 +10683,8 @@ fieldset[disabled] .btn-pomegranate {
 .btn-transparent:focus, .btn-transparent.focus, .btn-transparent:hover, .btn-transparent:active, .btn-transparent.active,
 .open > .btn-transparent.dropdown-toggle {
     color: #fff;
-    background-color: #00BBD3;
-    border-color: #00BBD3;
+    background-color: #8dbc4c;
+    border-color: #8dbc4c;
 }
 
 .btn-transparent:active, .btn-transparent.active,
@@ -22121,7 +22121,7 @@ fieldset[disabled] .btn-green {
         padding-bottom: 95px;
     }
     .section-lg-bottom-110 {
-        padding-bottom: 110px;
+        padding-bottom: 10px;
     }
     .section-lg-bottom-115 {
         padding-bottom: 115px;
@@ -28853,7 +28853,7 @@ img.mfp-img {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    background-color: #00BBD3;
+    background-color: #8dbc4c;
     border-radius: 20px;
     height: 101%;
     right: 5px;

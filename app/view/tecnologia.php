@@ -1,4 +1,9 @@
-<section class="section-55 section-lg-top-75 section-lg-bottom-110" id="tecnologia" style="padding-top: 15px;">
+<div style="clear: both; background: #efefef none repeat scroll 0 0;" id="tecnologia">
+    <br>
+    <br>
+    <br>
+</div>
+<section class="section-55 section-lg-top-75 section-lg-bottom-110" id="" style="padding-top: 15px;">
     <div class="container text-left">
         <h2 class="text-center text-sm-left">Tecnología</h2>
 

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-lg-4 text-sm-left">
                 <article class="thumbnail-variant-1">
-                    <div class="img-wrap bg-pomegranate"><img src="<?php echo IMAGES; ?>index-6.jpg" alt="">
+                    <div class="img-wrap bg-pomegranate"><img src="<?php echo IMAGES; ?>filosofia.jpg" alt="">
                     </div>
                     <div class="caption">
                         <h4>Filosofía</h4>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 text-sm-left offset-top-60 offset-sm-top-0">
                 <article class="thumbnail-variant-1">
-                    <div class="img-wrap bg-chateau-green"><img src="<?php echo IMAGES; ?>index-7.jpg" alt="">
+                    <div class="img-wrap bg-chateau-green"><img src="<?php echo IMAGES; ?>mision.jpg" alt="">
                     </div>
                     <div class="caption">
                         <h4>Misión</h4>
@@ -36,7 +36,7 @@
             </div>
             <div class="col-xs-12 col-lg-4 text-sm-left offset-top-60 offset-lg-top-0">
                 <article class="thumbnail-variant-1">
-                    <div class="img-wrap bg-primary"><img src="<?php echo IMAGES; ?>index-8.jpg" alt=""></div>
+                    <div class="img-wrap bg-primary"><img src="<?php echo IMAGES; ?>vision1.jpg" alt=""></div>
                     <div class="caption">
                         <h4>Visión</h4>
                         <p>Ser una empresa con crecimiento en México, basada en los mayores valores de ética y

@@ -54,9 +54,9 @@
                     </div>
                     <!-- RD Navbar Search-->
                     <div class="rd-navbar-search">
-                        <form action="search.php" method="GET" class="rd-navbar-search-form">
+                        <form action="#" method="POST" class="rd-navbar-search-form" id="search_form">
                             <label class="rd-navbar-search-form-input">
-                                <input type="text" name="s" placeholder="Search.." autocomplete="off">
+                                <input type="text" name="s" placeholder="Buscar.." autocomplete="off">
                             </label>
                             <button type="submit" class="rd-navbar-search-form-submit"></button>
                         </form>

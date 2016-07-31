@@ -1,4 +1,9 @@
-<section class="section-55 section-lg-top-75 section-lg-bottom-110 bg-lighter" id="servicios" style="padding-top: 15px;">
+<div style="clear: both;" id="servicios">
+    <br>
+    <br>
+    <br>
+</div>
+<section class="section-55 section-lg-top-75 section-lg-bottom-110 bg-lighter" id="" style="padding-top: 15px;">
     <div class="container text-left">
         <h2 class="text-center text-sm-left">Servicios</h2>
 

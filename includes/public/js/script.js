@@ -260,6 +260,7 @@ $document.ready(function () {
         }
     }
 
+
     /**
      * @module       RD Validator
      * @author       Aleksey Patsurkovskiy
@@ -267,6 +268,7 @@ $document.ready(function () {
      * @license      MIT License
      * @link         http://cms.devoffice.com/coding-demo/mnemon1k/rd-validation/demo/
      */
+    /*
     if (plugins.mailForm.length) {
         if ("RDValidator" in jQuery.fn) {
 
@@ -322,6 +324,7 @@ $document.ready(function () {
         }
     }
 
+*/
     /**
      * @module       Text rotator
      * @version      1.0.0
@@ -1408,6 +1411,25 @@ $document.ready(function () {
     */
     $("#search_form").submit(function(){
        return false;
+    });
+
+
+    $('#contact_form').submit(function(){
+        $.ajax({
+            url: "contacto/sendMessage",
+            type: "POST",
+            cache: false,
+            data: {
+                mensaje: $('#mensaje').val(),
+                email: $('#email').val()
+            },
+            dataType: 'json',
+            async: false,
+            success: function (data) {
+                console.log(data);
+            }
+        });
+        return false;
     });
 });
 
