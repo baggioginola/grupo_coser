@@ -54,7 +54,12 @@
     <section class="bg-darkener section-55 section-lg-75 copyright">
         <div class="container">
             <div class="row">
-                <p>&#169;<span id="copyright-year"></span> Grupo Coser <a href="#">Política de Privacidad</a>
+                <p>
+                    <a href="#">Política de Privacidad</a>
+                </p>
+            </div>
+            <div class="row">
+                <p>&#169;<span id="copyright-year"></span>  <a href="http://vmedia.mx">VMedia Comunicación</a>
                 </p>
             </div>
         </div>
